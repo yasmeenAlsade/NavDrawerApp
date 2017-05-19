@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NavDrawerApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_camera_fragment">Hello camera fragment</string>
+    <string name="hello_gallery_fragment">Hello gallery fragment</string>
+    <string name="hello_tools_fragment">Hello tools fragment</string>
+</resources>
